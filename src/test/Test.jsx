@@ -3,7 +3,7 @@
 function Test(props) {
     return (
         <div>
-            Test component
+            Test componentgit
         </div>
     );
 }
